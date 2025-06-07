@@ -1,1 +1,131 @@
+🌱 Chapter: Tissue
+📚 Subject: Biology
+💡 Core Idea: To understand how cells are organized into tissues in multicellular organisms, with a focus on plant and animal tissues and their functions.
 
+
+---
+
+🧬 What is a Tissue?
+A tissue is a group of similar cells performing a specific function. Tissues increase the efficiency of an organism by performing division of labor.
+
+
+---
+
+🌿 Plant Tissues
+Plants have two main types of tissues: Meristematic (growth) and Permanent (support, storage, transport).
+
+
+---
+
+1️⃣ Meristematic Tissues
+Actively dividing cells found in growing regions of the plant.
+
+Apical Meristem: At root and shoot tips; causes increase in length
+
+Lateral Meristem: Found in sides of stems and roots; increases thickness
+
+Intercalary Meristem: Found at leaf and stem base; causes growth between mature tissues
+
+
+
+---
+
+2️⃣ Permanent Tissues
+Cells that have lost the ability to divide and are specialized for specific functions.
+
+A. Simple Permanent Tissue – Made of similar cells
+
+Parenchyma: Living cells, thin-walled, stores food; some have chlorophyll (called chlorenchyma)
+
+Collenchyma: Living cells, irregularly thickened corners, provide flexibility
+
+Sclerenchyma: Dead cells, thick-walled, provide strength and support
+
+
+B. Complex Permanent Tissue – Made of different types of cells, work together
+
+Xylem: Transports water and minerals
+
+Components: Tracheids, vessels, xylem parenchyma, xylem fibers
+
+
+Phloem: Transports food
+
+Components: Sieve tubes, companion cells, phloem parenchyma, phloem fibers
+
+
+
+
+---
+
+🐾 Animal Tissues
+Four main types: Epithelial, Connective, Muscular, and Nervous.
+
+
+---
+
+1️⃣ Epithelial Tissue
+Forms covering or lining of body surfaces and organs.
+
+Simple Squamous: Thin, flat; in lungs
+
+Cuboidal: Cube-shaped; in kidney tubules
+
+Columnar: Tall, column-like; in intestine
+
+Ciliated: Columnar with cilia; in respiratory tract
+
+Stratified: Layers of cells; in skin
+
+
+
+---
+
+2️⃣ Connective Tissue
+Connects, binds, and supports body parts.
+
+Areolar: Fills space between organs
+
+Adipose: Stores fat
+
+Ligaments: Connect bone to bone
+
+Tendons: Connect muscle to bone
+
+Cartilage: Smooth and elastic, at joints
+
+Bone: Hard, supports body
+
+Blood: Fluid connective tissue, transports substances
+
+
+
+---
+
+3️⃣ Muscular Tissue
+Responsible for movement. Cells are long and contractile.
+
+Striated (Skeletal): Voluntary, striped, attached to bones
+
+Smooth (Unstriated): Involuntary, spindle-shaped, in internal organs
+
+Cardiac: Involuntary, branched, found in heart
+
+
+
+---
+
+4️⃣ Nervous Tissue
+
+Composed of neurons (nerve cells)
+
+Transmits signals between brain, spinal cord, and body
+
+Consists of axon, dendrites, and cell body
+
+
+
+---
+
+📌 Conclusion
+Tissues are essential for multicellular organisms to carry out specialized functions. Plants have mainly supportive and transport tissues, while animals have more complex tissue systems for coordination, movement, and communication.
