@@ -1,1 +1,180 @@
+🔬 Chapter: The Fundamental Unit of Life
+📚 Subject: Biology
+💡 Core Idea: To understand that the cell is the basic structural and functional unit of life and explore its structure, organelles, and functions.
 
+
+---
+
+🧫 What is a Cell?
+The cell is the smallest unit of life that can perform all life processes. All living organisms are made up of cells.
+
+Discovered by Robert Hooke in 1665.
+
+Cell Theory (Schleiden & Schwann):
+
+1. All living beings are made of cells.
+
+
+2. The cell is the basic unit of life.
+
+
+3. All cells arise from pre-existing cells (Rudolf Virchow).
+
+
+
+
+
+---
+
+🔍 Types of Organisms Based on Cell Number
+
+Unicellular – Made of one cell (e.g., Amoeba, Paramecium)
+
+Multicellular – Made of many cells (e.g., Plants, Animals)
+
+
+
+---
+
+🔄 Types of Cells
+
+Prokaryotic Cells – No well-defined nucleus, no membrane-bound organelles (e.g., Bacteria)
+
+Eukaryotic Cells – True nucleus, membrane-bound organelles (e.g., Plant and Animal cells)
+
+
+
+---
+
+🏗️ Structure of a Cell
+
+1. Cell Membrane / Plasma Membrane
+
+Semi-permeable, controls entry and exit of substances.
+
+Made of lipids and proteins.
+
+
+
+2. Cell Wall (only in plant cells)
+
+Rigid outer layer made of cellulose.
+
+Provides protection and shape.
+
+
+
+3. Cytoplasm
+
+Jelly-like substance where all organelles are suspended.
+
+Site of many biochemical reactions.
+
+
+
+4. Nucleus
+
+Control center of the cell.
+
+Contains DNA, chromosomes, and nucleolus.
+
+Surrounded by a nuclear membrane.
+
+
+
+
+
+---
+
+🔬 Cell Organelles
+
+1. Endoplasmic Reticulum (ER)
+
+Rough ER – Has ribosomes, synthesizes proteins.
+
+Smooth ER – Synthesizes lipids and detoxifies poisons.
+
+
+
+2. Golgi Apparatus
+
+Modifies, packages, and transports proteins and lipids.
+
+
+
+3. Lysosomes
+
+Contain digestive enzymes.
+
+Known as “suicide bags”.
+
+
+
+4. Mitochondria
+
+Site of cellular respiration.
+
+Produces energy (ATP).
+
+Known as the “powerhouse of the cell”.
+
+
+
+5. Plastids (only in plant cells)
+
+Chloroplasts – Contain chlorophyll, perform photosynthesis.
+
+Chromoplasts – Give color to fruits and flowers.
+
+Leucoplasts – Store starch, oils, and proteins.
+
+
+
+6. Vacuoles
+
+Storage sacs for water, food, and waste.
+
+Large and central in plant cells; small in animal cells.
+
+
+
+7. Ribosomes
+
+Sites of protein synthesis.
+
+Found free in cytoplasm or on Rough ER.
+
+
+
+8. Centrosome / Centrioles (only in animal cells)
+
+Helps in cell division.
+
+
+
+
+
+---
+
+⚙️ Differences Between Plant and Animal Cells
+
+Plant cells have cell walls, large vacuoles, and plastids.
+
+Animal cells have centrioles and small vacuoles, but no cell wall or plastids.
+
+
+
+---
+
+🧬 Chromosomes and DNA
+
+Chromosomes are thread-like structures made of DNA.
+
+DNA carries genetic information and controls heredity.
+
+
+
+---
+
+📌 Conclusion
+The cell is the structural and functional unit of life. Its organelles work together to maintain life processes. Understanding cells helps in studying diseases, genetics, and biotechnology.
