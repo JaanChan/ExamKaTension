@@ -53,7 +53,7 @@ Each chapter is explained in clear, student-friendly language, enhanced with emo
 1. Clone or download this repository.
 2. Open the folder for your subject (`Biology`, `Physics`, or `Chemistry`).
 3. Open any `.txt` file in your favorite text editor or reader.
-4. Study, revise, repeat! 🧠✨
+4. Study, revise, repeat! 🧠✨ <br>
 **(or just read it inside GitHub)**
 ---
 
