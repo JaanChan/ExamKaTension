@@ -72,7 +72,7 @@ Feel free to suggest improvements, fixes, or additions by opening a pull request
 
 ## 📒 Licence
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
 
 ---
 
