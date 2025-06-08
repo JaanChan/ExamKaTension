@@ -53,7 +53,7 @@ Strongest in solids, weakest in gases.
 ---
 
 
-🔄 Diagram (Visualize):
+🔄 Visualize:
 Imagine particles packed tightly in a solid, loosely in a liquid, and scattered in a gas.
 
 
