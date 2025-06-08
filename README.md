@@ -70,6 +70,12 @@ Feel free to suggest improvements, fixes, or additions by opening a pull request
 
 ---
 
+## 📒 Licence
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ## 📣 Final Note
 
 > These notes were made **by a student, for students** — with effort, love, and the goal to help everyone do better in school. Share it with your classmates and help others too! 💖
