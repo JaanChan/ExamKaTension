@@ -8,7 +8,7 @@
 
 This project was created **to study for exams** and serve as a comprehensive, easy-to-access, and well-organized study resource for **Class 9 students**.
 
-🎓 **By:** JaanChan
+🎓 **By:** JaanChan  
 📘 **Goal:** To provide structured and detailed notes that are perfect for revisions, self-study, and acing all types of exams.
 
 ---
